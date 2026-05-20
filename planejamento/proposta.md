@@ -18,4 +18,5 @@ A descrição dos produtos, das categorias citadas anteriormente, no catálogo i
 - 3) Materiais utilizados;
 - 4) Medidas do objeto;
 - 5) Recomendações para preservação.
+
 Assim esclarecendo ao usuário as características do ativo, a fim de proporcionar uma maior segurança durante a compra.
