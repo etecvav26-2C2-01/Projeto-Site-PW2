@@ -20,3 +20,33 @@ A descrição dos produtos, das categorias citadas anteriormente, no catálogo i
 - 5) Recomendações para preservação.
 
 Assim esclarecendo ao usuário as características do ativo, a fim de proporcionar uma maior segurança durante a compra.
+
+## Serviços prestados
+
+O projeto pretende prestar os serviços de venda, suporte, entrega e segurança. Seguem detalhes sobre cada serviço
+
+### 1 - Venda
+
+O processo de aquisição de produtos se inicia após o usuário escolher o(s) produto(s) desejado no católogo. Nestes haverão descrições e informações sobre preço, estoque e frete (para entrega).
+Para finalizar a compra o consumidor deve informar: 
+- Forma de pagamento;
+- Endereço para entrega;
+- Garantia desejada (Padrão ou Estendida);
+- Meios para contato. 
+
+### 2 - Suporte
+
+Um canal de suporta para contato será disponibilizado caso os usuários precisem de auxílio em relação a compra, entrega e informações sobre a segurança oferecida.
+
+### 3 - Entrega
+
+Com base no endereço inserido, o produto irá ser transportado por entregadores até o consumidor. Neste processo, se usarão os meios logísticos necessários para atingir o endereço solicitado, tornando o frete pela entrega variável. 
+Os transportes logístico para entrega serão:
+- Motos;
+- Carros;
+- Vans;
+- Aviões (para entregas distantes ou regiões de acesso dificultado).
+
+
+
+
