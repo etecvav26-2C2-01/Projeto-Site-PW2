@@ -37,3 +37,25 @@ Página onde o usuário poderá visualizar o status do pedido, como “Em prepar
 A navegação será realizada por meio de um menu localizado no header do site, contendo acesso às principais páginas, como Home, Produtos, Sobre e Contato.
 
 Além disso, haverá um botão localizado na lateral do header para acesso rápido ao Carrinho, facilitando a visualização dos itens selecionados pelo usuário.
+
+## 👨‍💼 Área Administratativa (ADMIN)
+
+### 🎟 Login Admin
+
+Página de autenticação do administrador de acordo com cargo no banco de dados, caso não possua o cargo é redirecionado para a página home.
+
+### 🖥 Painel Admin (DASHBOARD)
+
+Exibe produtos cadastrados e Pedidos Recente.
+
+### 🛍 Gerenciar produtos
+
+Lista os produtos, opção de adicionar produtos. Excluir ou editar produtos já existentes.
+
+### 🙋‍♂️ Gerenciar Pedidos
+
+Lista os pedidos ativos / pendentes, permite visualizar o pedido e atualizar status.
+
+### 🥇 Gerenciar Cargos
+
+Lista os usuários e permite alterar os cargos de um usuário já existe no banco de dados.
